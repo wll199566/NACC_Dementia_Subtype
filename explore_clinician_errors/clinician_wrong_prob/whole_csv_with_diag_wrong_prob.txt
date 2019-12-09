@@ -1,0 +1,337 @@
+******************** PURE AD ********************
+
+
+$$$$$$$$$$ NACCAGE $$$$$$$$$$
+
+Disease: PURE AD | Feature: NACCAGE
+there are 757 samples for PURE AD
+there are 0 missing values (0.0)
+10 ~ 20 has zero samples
+20 ~ 30 has zero samples
+p(wrong | 30~40) = 0.0 (0 / 1)
+p(wrong | 40~50) = 0.25 (1 / 4)
+p(wrong | 50~60) = 0.3 (18 / 60)
+p(wrong | 60~70) = 0.2740740740740741 (37 / 135)
+p(wrong | 70~80) = 0.3469387755102041 (85 / 245)
+p(wrong | 80~90) = 0.36947791164658633 (92 / 249)
+p(wrong | 90~100) = 0.3225806451612903 (20 / 62)
+p(wrong | 100~110) = 0.0 (0 / 1)
+110 ~ 120 has zero samples
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+$$$$$$$$$$ SEX $$$$$$$$$$
+
+Disease: PURE AD | Feature: SEX
+there are 757 samples for PURE AD
+there are 0 missing values (0.0)
+p(wrong | 1) = 0.3645833333333333 (140 / 384)
+p(wrong | 2) = 0.30294906166219837 (113 / 373)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+$$$$$$$$$$ WAIS $$$$$$$$$$
+
+Disease: PURE AD | Feature: WAIS
+there are 757 samples for PURE AD
+there are 147 missing values (0.19418758256274768)
+p(wrong | 0~10) = 0.19148936170212766 (9 / 47)
+p(wrong | 10~20) = 0.3088235294117647 (21 / 68)
+p(wrong | 20~30) = 0.30177514792899407 (51 / 169)
+p(wrong | 30~40) = 0.3502824858757062 (62 / 177)
+p(wrong | 40~50) = 0.3697478991596639 (44 / 119)
+p(wrong | 50~60) = 0.7307692307692307 (19 / 26)
+p(wrong | 60~70) = 1.0 (1 / 1)
+p(wrong | 70~80) = 0.3333333333333333 (1 / 3)
+80 ~ 90 has zero samples
+90 ~ 100 has zero samples
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+******************** PURE LBD ********************
+
+
+$$$$$$$$$$ HALL $$$$$$$$$$
+
+Disease: PURE LBD | Feature: HALL
+there are 46 samples for PURE LBD
+there are 1 missing values (0.021739130434782608)
+p(wrong | 0) = 0.6486486486486487 (24 / 37)
+p(wrong | 1) = 0.25 (2 / 8)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+$$$$$$$$$$ NACCAANX $$$$$$$$$$
+
+Disease: PURE LBD | Feature: NACCAANX
+there are 46 samples for PURE LBD
+there are 1 missing values (0.021739130434782608)
+p(wrong | 0) = 0.6944444444444444 (25 / 36)
+p(wrong | 1) = 0.1111111111111111 (1 / 9)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+$$$$$$$$$$ BOSTON $$$$$$$$$$
+
+Disease: PURE LBD | Feature: BOSTON
+there are 46 samples for PURE LBD
+there are 3 missing values (0.06521739130434782)
+0 ~ 5 has zero samples
+5 ~ 10 has zero samples
+p(wrong | 10~15) = 1.0 (2 / 2)
+15 ~ 20 has zero samples
+p(wrong | 20~25) = 0.6363636363636364 (7 / 11)
+p(wrong | 25~30) = 0.5 (15 / 30)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+$$$$$$$$$$ NACCMMSE $$$$$$$$$$
+
+Disease: PURE LBD | Feature: NACCMMSE
+there are 46 samples for PURE LBD
+there are 3 missing values (0.06521739130434782)
+0 ~ 10 has zero samples
+p(wrong | 10~21) = 1.0 (1 / 1)
+p(wrong | 21~25) = 0.3333333333333333 (2 / 6)
+p(wrong | 25~30) = 0.5833333333333334 (21 / 36)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+$$$$$$$$$$ TRAILA $$$$$$$$$$
+
+Disease: PURE LBD | Feature: TRAILA
+there are 46 samples for PURE LBD
+there are 3 missing values (0.06521739130434782)
+p(wrong | 0~29) = 1.0 (2 / 2)
+p(wrong | 29~78) = 0.5806451612903226 (18 / 31)
+p(wrong | 78~150) = 0.4 (4 / 10)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+$$$$$$$$$$ NITE $$$$$$$$$$
+
+Disease: PURE LBD | Feature: NITE
+there are 46 samples for PURE LBD
+there are 1 missing values (0.021739130434782608)
+p(wrong | 0) = 0.6818181818181818 (15 / 22)
+p(wrong | 1) = 0.4782608695652174 (11 / 23)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+$$$$$$$$$$ SEX $$$$$$$$$$
+
+Disease: PURE LBD | Feature: SEX
+there are 46 samples for PURE LBD
+there are 0 missing values (0.0)
+p(wrong | 1) = 0.5588235294117647 (19 / 34)
+p(wrong | 2) = 0.6666666666666666 (8 / 12)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+$$$$$$$$$$ INRELTO $$$$$$$$$$
+
+Disease: PURE LBD | Feature: INRELTO
+there are 46 samples for PURE LBD
+there are 1 missing values (0.021739130434782608)
+p(wrong | 1) = 0.5666666666666667 (17 / 30)
+p(wrong | 2) = 0.5833333333333334 (7 / 12)
+p(wrong | 3) = 0.5 (1 / 2)
+4 has zero samples
+p(wrong | 5) = 1.0 (1 / 1)
+6 has zero samples
+7 has zero samples
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+******************** MIX AD+LBD ********************
+
+
+$$$$$$$$$$ CDRSUM $$$$$$$$$$
+
+Disease: MIX AD + LBD | Feature: CDRSUM
+there are 572 samples for MIX AD + LBD
+there are 0 missing values (0.0)
+p(wrong | 0~6) = 0.9618834080717489 (429 / 446)
+p(wrong | 6~12) = 0.9603174603174603 (121 / 126)
+12 ~ 18 has zero samples
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+$$$$$$$$$$ EDUC $$$$$$$$$$
+
+Disease: MIX AD + LBD | Feature: EDUC
+there are 572 samples for MIX AD + LBD
+there are 4 missing values (0.006993006993006993)
+p(wrong | 0~12) = 0.9411764705882353 (16 / 17)
+p(wrong | 12~16) = 0.9635416666666666 (185 / 192)
+p(wrong | 16~18) = 0.9512195121951219 (156 / 164)
+p(wrong | 18~20) = 0.9724770642201835 (106 / 109)
+p(wrong | 20~36) = 0.9651162790697675 (83 / 86)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+$$$$$$$$$$ NACCAGE $$$$$$$$$$
+
+Disease: MIX AD + LBD | Feature: NACCAGE
+there are 572 samples for MIX AD + LBD
+there are 0 missing values (0.0)
+10 ~ 20 has zero samples
+20 ~ 30 has zero samples
+30 ~ 40 has zero samples
+p(wrong | 40~50) = 0.8571428571428571 (6 / 7)
+p(wrong | 50~60) = 0.98 (49 / 50)
+p(wrong | 60~70) = 0.9603174603174603 (121 / 126)
+p(wrong | 70~80) = 0.9608695652173913 (221 / 230)
+p(wrong | 80~90) = 0.9568345323741008 (133 / 139)
+p(wrong | 90~100) = 1.0 (20 / 20)
+100 ~ 110 has zero samples
+110 ~ 120 has zero samples
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+$$$$$$$$$$ BOSTON $$$$$$$$$$
+
+Disease: MIX AD + LBD | Feature: BOSTON
+there are 572 samples for MIX AD + LBD
+there are 65 missing values (0.11363636363636363)
+p(wrong | 0~5) = 1.0 (14 / 14)
+p(wrong | 5~10) = 1.0 (13 / 13)
+p(wrong | 10~15) = 1.0 (29 / 29)
+p(wrong | 15~20) = 0.963855421686747 (80 / 83)
+p(wrong | 20~25) = 0.94 (94 / 100)
+p(wrong | 25~30) = 0.9514925373134329 (255 / 268)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+$$$$$$$$$$ NACCAGEB $$$$$$$$$$
+
+Disease: MIX AD + LBD | Feature: NACCAGEB
+there are 572 samples for MIX AD + LBD
+there are 0 missing values (0.0)
+10 ~ 20 has zero samples
+20 ~ 30 has zero samples
+30 ~ 40 has zero samples
+p(wrong | 40~50) = 0.8571428571428571 (6 / 7)
+p(wrong | 50~60) = 0.9803921568627451 (50 / 51)
+p(wrong | 60~70) = 0.9603174603174603 (121 / 126)
+p(wrong | 70~80) = 0.9629629629629629 (234 / 243)
+p(wrong | 80~90) = 0.9552238805970149 (128 / 134)
+p(wrong | 90~100) = 1.0 (11 / 11)
+100 ~ 110 has zero samples
+110 ~ 120 has zero samples
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+$$$$$$$$$$ DIGIF $$$$$$$$$$
+
+Disease: MIX AD + LBD | Feature: DIGIF
+there are 572 samples for MIX AD + LBD
+there are 59 missing values (0.10314685314685315)
+p(wrong | 0~1) = 1.0 (3 / 3)
+p(wrong | 1~2) = 1.0 (4 / 4)
+p(wrong | 2~3) = 1.0 (8 / 8)
+p(wrong | 3~4) = 1.0 (6 / 6)
+p(wrong | 4~5) = 0.967741935483871 (30 / 31)
+p(wrong | 5~6) = 0.9038461538461539 (47 / 52)
+p(wrong | 6~7) = 0.978021978021978 (89 / 91)
+p(wrong | 7~8) = 0.9746835443037974 (77 / 79)
+p(wrong | 8~9) = 0.963855421686747 (80 / 83)
+p(wrong | 9~10) = 0.9230769230769231 (60 / 65)
+p(wrong | 10~11) = 0.9622641509433962 (51 / 53)
+p(wrong | 11~12) = 0.9736842105263158 (37 / 38)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+$$$$$$$$$$ HYPERCHO $$$$$$$$$$
+
+Disease: MIX AD + LBD | Feature: HYPERCHO
+there are 572 samples for MIX AD + LBD
+there are 12 missing values (0.02097902097902098)
+p(wrong | 0) = 0.9603174603174603 (242 / 252)
+p(wrong | 1) = 0.9649122807017544 (275 / 285)
+p(wrong | 2) = 0.9565217391304348 (22 / 23)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+$$$$$$$$$$ TRAILA $$$$$$$$$$
+
+Disease: MIX AD + LBD | Feature: TRAILA
+there are 572 samples for MIX AD + LBD
+there are 58 missing values (0.10139860139860139)
+p(wrong | 0~29) = 0.9787234042553191 (46 / 47)
+p(wrong | 29~78) = 0.973293768545994 (328 / 337)
+p(wrong | 78~150) = 0.9230769230769231 (120 / 130)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+$$$$$$$$$$ TRAILB $$$$$$$$$$
+
+Disease: MIX AD + LBD | Feature: TRAILB
+there are 572 samples for MIX AD + LBD
+there are 140 missing values (0.24475524475524477)
+p(wrong | 0~75) = 1.0 (38 / 38)
+p(wrong | 75~273) = 0.9682539682539683 (244 / 252)
+p(wrong | 273~300) = 0.9507042253521126 (135 / 142)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+$$$$$$$$$$ HALL $$$$$$$$$$
+
+Disease: MIX AD + LBD | Feature: HALL
+there are 572 samples for MIX AD + LBD
+there are 27 missing values (0.0472027972027972)
+p(wrong | 0) = 0.9675572519083969 (507 / 524)
+p(wrong | 1) = 0.7619047619047619 (16 / 21)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+$$$$$$$$$$ HALLSEV $$$$$$$$$$
+
+Disease: MIX AD + LBD | Feature: HALLSEV
+there are 572 samples for MIX AD + LBD
+there are 27 missing values (0.0472027972027972)
+p(wrong | 1) = 0.7333333333333333 (11 / 15)
+p(wrong | 2) = 0.6666666666666666 (2 / 3)
+p(wrong | 3) = 1.0 (3 / 3)
+p(wrong | 8) = 0.9675572519083969 (507 / 524)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+

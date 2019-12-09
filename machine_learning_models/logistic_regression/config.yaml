@@ -1,0 +1,25 @@
+# training
+batch_size: 16
+epochs: 300
+init_learning_rate: 0.001
+alpha: 0.01
+
+# model
+feature_dim: 557
+output_dim: 4 # the number of classes 
+
+# Adam
+beta1: 0.9
+beta2: 0.98
+epsilon: 1e-8
+
+# system
+log_interval: 100
+seed: 1
+
+# paths
+train_dir: "../../preprocess_data/processed_data/processed_pkl/first_visit_features" 
+val_dir: "../../preprocess_data/processed_data/processed_pkl/first_visit_features"
+
+      
+                    

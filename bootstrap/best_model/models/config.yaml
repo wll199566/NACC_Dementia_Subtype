@@ -1,0 +1,12 @@
+# testing
+batch_size: 16
+
+# model
+feature_dim: 557
+output_dim: 4 # the number of classes 
+
+# bootstrap
+bootstrap_num_iterations: 1000
+bootstrap_test_sample_ratio: 0.8 
+      
+                    
